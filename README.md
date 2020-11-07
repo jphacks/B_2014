@@ -54,7 +54,8 @@ https://your-e-tan.com/
 
 ### 独自技術
 #### ハッカソンで開発した独自機能・技術
-* 無し
+* githubプロジェクト管理　issue　=> https://github.com/gyomuitaku/kawaqiita/projects/1
+(こちらのリポジトリで主に開発しておりました。)
 * https://github.com/jphacks/B_2014/blob/master/app/libs/Fileloader.rb
  
 #### 製品に取り入れた研究内容（データ・ソフトウェアなど）（※アカデミック部門の場合のみ提出必須）
