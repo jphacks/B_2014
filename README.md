@@ -30,6 +30,9 @@
 * Puma(2.16.0) with ruby 2.6.6
 #### 使用サービス(AWS)
 * ElasticBeanstalk CloudWatch Chatbot SNS CodePipeline RDS(MySQL) ELB SSL Route53 Certificate Manager　IAM
+
+![20170207223816 (1)](https://user-images.githubusercontent.com/50270988/98430103-9a6be680-20ee-11eb-96bd-738873437f98.png)
+
 #### フレームワーク・ライブラリ・モジュール
 * Rails 5.2.4
 * JavaScript
@@ -52,4 +55,3 @@
 #### 製品に取り入れた研究内容（データ・ソフトウェアなど）（※アカデミック部門の場合のみ提出必須）
 * なし
 *
-![20170207223816 (1)](https://user-images.githubusercontent.com/50270988/98430103-9a6be680-20ee-11eb-96bd-738873437f98.png)
