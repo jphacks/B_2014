@@ -34,7 +34,7 @@ https://your-e-tan.com/
 #### platform
 * Puma(2.16.0) with ruby 2.6.6
 #### 使用サービス(AWS)
-* ElasticBeanstalk CloudWatch Chatbot SNS CodePipeline RDS(MySQL) ELB SSL Route53 Certificate Manager　IAM
+* ElasticBeanstalk CloudWatch Chatbot SNS CodePipeline RDS(MySQL) ELB SSL Route53 CertificateManager IAM
 
 ##  構成図
 
@@ -49,8 +49,7 @@ https://your-e-tan.com/
 * TfidfVectorizer(Pythonの機械学習ライブラリ)
 * Nginx
 #### デバイス
-* 使ってない
-* 
+* なし
 
 ### 独自技術
 #### ハッカソンで開発した独自機能・技術
@@ -60,4 +59,3 @@ https://your-e-tan.com/
  
 #### 製品に取り入れた研究内容（データ・ソフトウェアなど）（※アカデミック部門の場合のみ提出必須）
 * なし
-*
