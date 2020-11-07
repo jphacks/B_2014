@@ -5,6 +5,9 @@
 ## 製品概要
 ### 製品URL
 https://your-e-tan.com/
+
+![スクリーンショット 2020-11-07 12 30 59 2](https://user-images.githubusercontent.com/50270988/98431107-0f8eea00-20f6-11eb-9130-4dcbec548bff.png)
+
 ### 背景(製品開発のきっかけ、課題等）
 - 英語を勉強していてこんなことを思ったことはありませんか？
 ### 製品説明（具体的な製品の説明）
@@ -35,8 +38,7 @@ https://your-e-tan.com/
 
 ##  構成図
 
-![20170207223816 (1) (1)](https://user-images.githubusercontent.com/50270988/98430542-6b0aa900-20f1-11eb-8d61-7db6855abba1.png)
-
+![スクリーンショット 2020-11-07 12 30 59 2](https://user-images.githubusercontent.com/50270988/98431086-c2127d00-20f5-11eb-98d5-9909e582b773.png)
 #### フレームワーク・ライブラリ・モジュール
 * Rails 5.2.4
 * JavaScript
