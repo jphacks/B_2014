@@ -33,7 +33,8 @@ https://your-e-tan.com/
 #### 使用サービス(AWS)
 * ElasticBeanstalk CloudWatch Chatbot SNS CodePipeline RDS(MySQL) ELB SSL Route53 Certificate Manager　IAM
 
-![20170207223816 (1)](https://user-images.githubusercontent.com/50270988/98430103-9a6be680-20ee-11eb-96bd-738873437f98.png)
+構成図
+![20170207223816 (1) (1)](https://user-images.githubusercontent.com/50270988/98430542-6b0aa900-20f1-11eb-8d61-7db6855abba1.png)
 
 #### フレームワーク・ライブラリ・モジュール
 * Rails 5.2.4
