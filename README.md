@@ -1,8 +1,10 @@
-# サンプル（プロダクト名）
+# e-tan
 
 [![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2020/09/JPHACKS2020_ogp.jpg)](https://www.youtube.com/watch?v=G5rULR53uMk)
 
 ## 製品概要
+### 製品URL
+https://your-e-tan.com/
 ### 背景(製品開発のきっかけ、課題等）
 - 英語を勉強していてこんなことを思ったことはありませんか？
 ### 製品説明（具体的な製品の説明）
